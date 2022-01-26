@@ -1,0 +1,14 @@
+# ninja log v5
+4	290	6647202740000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/Sensor/mpu6050.xcl	85c53131f24f79e8
+43	354	6647202740000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/Sensor/fan.xcl	26c6c7543a52d032
+315	622	6647202740000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/Sensor/dht11.xcl	56765028e28ea350
+371	687	6647202740000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/delay.xcl	4f8a6086db20c6fc
+647	965	6647202750000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/Task/netprocess.xcl	3843773f774c663d
+706	1028	6647202750000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/adc.xcl	42a2acdc59b2f8a8
+989	1300	6647202750000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/Task/protocol.xcl	6ab491bf8cdc24db
+1046	1372	6647202750000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/Task/dataprocess.xcl	f7741a69d81c4eb3
+1324	1668	6647202750000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/lcd.xcl	5908f19f6f8d5a9b
+1394	1735	6647202750000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/gpio.xcl	765adc9620418e93
+1692	2035	6647202760000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/main.xcl	880caa1139968a64
+1756	2105	6647202760000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/rtc.xcl	b06eb297c261ce9b
+2058	2369	6647202760000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/03LoRa饲养环境控制/EWARM/Slave/BrowseInfo/Application/User/dma.xcl	2ffcbca63792eb26

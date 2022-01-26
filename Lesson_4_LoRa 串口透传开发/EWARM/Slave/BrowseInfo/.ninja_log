@@ -1,0 +1,349 @@
+# ninja log v5
+7205	9312	6588462130000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_hal_msp.xcl	1b82d8c95eb55689
+6	1488	6588462050000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/dma.xcl	f1b24b6fac763d00
+6306	8280	6588462120000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/main.xcl	e94f82bc9f1800cb
+22843	25183	6588462290000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc_ex.xcl	a7c6f77aab99761e
+3446	4730	6588462592267491	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/gpio.pbi	5da6b8522bd48c7f
+1504	3773	6588462070000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/gpio.xcl	3fbec7add06f71c5
+362	1287	6594244187831737	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+5	480	6594361958728773	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.pbi	4f9511f1269184d7
+23731	26162	6588462290000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi.xcl	9b0b36b3738ca433
+10466	11499	6588462660144086	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_exti.pbi	b8c27998a35ee2f4
+390	2312	6588462060000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/adc.xcl	453a0b41329f8c21
+5078	7190	6588462110000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/lcd.xcl	9393b18dca3e958c
+2329	5061	6588462080000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/spi.xcl	76a69e3217dc5661
+17891	20315	6588462240000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash_ex.xcl	4ec46ff677dc0a2a
+8956	10620	6590080060000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/CMSIS/system_stm32f0xx.xcl	4a98bb2d9c76e58e
+25203	27615	6588462310000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr_ex.xcl	a6c7f3522df0af2a
+11688	14125	6588462170000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_cortex.xcl	fc3c3a279f509502
+3791	6289	6588462100000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.xcl	5ba02436f122aa0f
+8297	10754	6588462140000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/usart.xcl	6b2c4b899664fdc9
+37879	39950	6588462430000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1276-LoRa.xcl	929bb3ecb27db708
+1107	2394	6588462569273509	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/dma.pbi	194a23e56922dc0b
+9328	11672	6588462150000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal.xcl	52b7be48516aba6d
+20482	21801	6588462762266275	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart_ex.pbi	ba3ecbd790f76858
+33782	35774	6588462390000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/platform/fifo.xcl	55ba98de622e4931
+12996	15278	6588462190000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc_ex.xcl	4a40ff7f6d286474
+13913	15104	6588462695966758	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr_ex.pbi	8f966614a15cebaa
+8	1102	6588462556078910	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/lcd.pbi	f3bdecb3881d942c
+10770	12978	6588462170000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc.xcl	ed6b23abd0be2163
+15302	17875	6588462210000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_dma.xcl	c532987956e7dce5
+14141	16468	6588462200000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/CMSIS/system_stm32f0xx.xcl	b35377cce4f75c09
+25218	27259	6590080220000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart_ex.xcl	96da279f50566482
+6924	8106	6588462625677537	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	71e750ee92420ca
+19055	21277	6588462240000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash.xcl	1940a9d3fe6cb6ae
+8818	9836	6588462643317566	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash.pbi	adb7d9a2cae18c45
+16490	19040	6588462220000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_exti.xcl	5f3cd6c28821f647
+20333	22826	6588462260000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_gpio.xcl	95aeff4face555a3
+21297	23713	6588462270000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c.xcl	cc56f00f7fe77a2c
+28833	31406	6588462350000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c_ex.xcl	b05605c969e08de6
+27632	30476	6588462340000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr.xcl	b64325d6c1e1340f
+58128	59478	6590080549585948	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc_ex.pbi	5921781bd8552575
+26180	28815	6588462320000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc.xcl	8ee395491ccb5c3f
+34710	37163	6588462410000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim.xcl	792b298b3fe61839
+5	1018	6590074942476637	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	87898d2152d919f3
+31424	33764	6588462370000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart_ex.xcl	40dd804258ba1da1
+5257	6387	6588462608564571	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc.pbi	b4f243be78a681f5
+35663	37910	6590080330000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/sx12xxEiger.xcl	b3ed8981e6f77837
+32875	34693	6588462380000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim_ex.xcl	1257db538dad741
+39969	41897	6588462450000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/platform/sx12xxEiger.xcl	dc6de1a0674a2e31
+35820	37863	6588462410000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart.xcl	ee409108215591b
+2692	3428	6594223045369707	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/led.pbi	6caf2657ab5ba792
+30499	32853	6588462360000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi_ex.xcl	68d1d009313971b7
+51857	53269	6590080488388357	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_cortex.pbi	1ede7f93026fa923
+11505	12783	6588462672967269	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc.pbi	6b58d5bb8428f940
+41914	44206	6588462480000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/platform/sx1276-Hal.xcl	1f61c973be9f25e1
+20113	22187	6590080180000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc.xcl	f4f99988611ad021
+37180	39083	6588462430000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/radio.xcl	5f42bd0e76e27bbc
+4736	5789	6588462602798271	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/CMSIS/system_stm32f0xx.pbi	382dfbdd74673466
+39104	41155	6588462450000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1276-LoRaMisc.xcl	fee25c32f81e75fc
+41170	43027	6588462460000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/platform/led.xcl	5887f72bd6ff80c3
+547	1904	6588462560987030	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/spi.pbi	664889bc8f838d4a
+1910	2862	6588462574216348	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/adc.pbi	b591ecf5685b7003
+2869	4196	6588462580000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1276.xcl	27aae6c8cc4b3b27
+5795	6919	6588462614143245	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc_ex.pbi	b901d6ab2eed8c05
+4217	5252	6588462597675056	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_hal_msp.pbi	1fcadcfbaa0821b3
+6393	7522	6588462619961473	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.pbi	c51cd7213ad58ce
+9308	10461	6588462648785147	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_gpio.pbi	d86fd422a73859b1
+2381	4066	6590051321402010	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1272-Fsk.pbi	cb48cf06d199a669
+7528	8812	6588462631590466	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal.pbi	7992580e69d386c9
+9842	10980	6588462655567785	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_cortex.pbi	da8b42982487d25d
+12122	13320	6588462678344239	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_dma.pbi	702be9fb70abec70
+10987	12116	6588462665207835	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash_ex.pbi	35e2067324e03450
+4695	5986	6590059408611392	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/learn_part5.pbi	cba586f0c960aa92
+8111	9302	6588462639500508	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c.pbi	4b20827c1e741c38
+13326	14582	6588462689787675	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr.pbi	33d45af3eaf6e23a
+12792	13907	6588462683545882	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c_ex.pbi	a30b0ba57a0b238b
+14588	15666	6588462701320278	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc_ex.pbi	e927c3b69c1e2d9c
+15673	16798	6588462712994469	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi.pbi	bbe6572ed0bb5417
+19365	20477	6588462749914949	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/platform/fifo.pbi	1efacfac0c4aafd2
+15109	16214	6588462707104812	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi_ex.pbi	5832bd39b8b63068
+485	1654	6588464628762278	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/radio.pbi	961c4a2f49d5534
+32795	35644	6590080310000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/sx1276-Hal.xcl	a5a823ce32566726
+16220	17308	6588462718272098	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/platform/led.pbi	30855578a7c19cf4
+17313	18396	6588462730163586	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart.pbi	4876c918e7787b06
+19961	21151	6588462755721583	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/platform/sx12xxEiger.pbi	8a8eaa42cc5cb967
+5	839	6590051680587815	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1276-LoRa.pbi	eb59986418d5633d
+23014	24273	6588462787369425	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim_ex.pbi	8d411ea41e4fdf00
+3075	4126	6590059386752697	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/platform/sx1276-Hal.pbi	5f905b47bd059fbb
+21811	23009	6588462775031241	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1276-LoRaMisc.pbi	101f275ca18294a2
+22456	23663	6588462781683963	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim.pbi	bbe423f8d8a079cf
+17822	19360	6588462736180160	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1276.pbi	1201a35f7bad94b3
+23680	24840	6588462795116163	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/learn_part1.pbi	feebf8db07f3c14e
+1024	1979	6590074952091609	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/learn_part0.pbi	6be922c59b3372f4
+1798	2735	6590059546183370	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/learn_part6.pbi	67dd57a3f6c53a2a
+1304	2831	6590079980000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/dma.xcl	efd9cd70a564d98d
+26527	27585	6588462822604873	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/learn_part3.pbi	fa96c06bbdca9bc
+14793	16865	6590080120000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_exti.xcl	5829ee2ae7bf3964
+57269	58712	6590080543620551	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr.pbi	79e0153efda54348
+24855	25934	6588462806247777	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/learn_part4.pbi	ae6acc7ab3bbe46a
+25424	26513	6588462810550487	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/learn_part2.pbi	c6606ee7d20b4c32
+1990	2798	6590074960280677	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/learn.pbd	398bcd5f9d436ccb
+2812	7119	6590075002359147	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/learn.pbw	1896ca8eeccb08b3
+17	2365	6590051300000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1272-Fsk.xcl	467658a487cf4041
+830	3409	6590051310000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1272-FskMisc.xcl	d15cae8b941f5785
+5	636	6590058672292662	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1272-FskMisc.pbi	7b0a4fc1df1c1549
+7	1686	6590059360000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1276-Fsk.xcl	338e3d800c864f40
+357	2502	6590059370000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1276-FskMisc.xcl	129bcdf39720f673
+6	1792	6590059536744804	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1276-Fsk.pbi	f125a80052cdbec1
+3581	4690	6590059392352752	F:/嵌入式+物联网/18 - LoRa开发与应用/D4 - LoRa PingPang系统设计/LoRa PingPang/EWARM/Slave/BrowseInfo/radio/sx1276-FskMisc.pbi	c619797c75506e51
+4	1285	6590079970000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/gpio.xcl	f9273202db4c9ab9
+312	1900	6590079970000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/adc.xcl	d89af5f0763b5faf
+1918	3398	6590079990000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_hal_msp.xcl	c6938b847532de7a
+2847	4294	6590080000000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.xcl	fdcb40b4bd2d355c
+3416	5050	6590080000000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/lcd.xcl	8a3bb378bc55c56
+4315	5974	6590080010000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/spi.xcl	d6781bdd7806eb68
+2366	3093	6594223041463721	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/sx12xxEiger.pbi	ee76c308dffd5b01
+5067	6861	6590080020000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.xcl	12c2659c177a3045
+5995	8107	6590080040000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc.xcl	daec757aef632ade
+5517	6198	6594223074751762	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part4.pbi	898836a0e332904f
+6878	8935	6590080040000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal.xcl	be2d4185746da42e
+8128	9851	6590080050000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_cortex.xcl	18913a7abf6a1967
+61735	62847	6590080586524428	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi_ex.pbi	2c2d8ac46dee73f8
+9868	11539	6590080070000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc_ex.xcl	4812eb470a5c1705
+10638	12777	6590080080000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.xcl	457fe60a9dbb906
+11557	13649	6590080090000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_dma.xcl	108c923d762ef5b1
+37928	40331	6590080360000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/sx1276-LoRaMisc.xcl	bfa5bc39a72095a3
+12798	14776	6590080100000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash_ex.xcl	f53b3567f6fce693
+13668	15661	6590080110000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c.xcl	2c38acfe1571d63c
+15678	17824	6590080130000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_gpio.xcl	e1214a9fbfb4cc62
+16888	18954	6590080140000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash.xcl	a8e76fe97f467985
+17846	20096	6590080160000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr.xcl	9110c39e4040d8c7
+71046	72567	6590080680862581	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/sx1276.pbi	1ab1efb7c41235ce
+18972	20941	6590080160000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr_ex.xcl	607cb7044d470a63
+20959	23103	6590080180000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi.xcl	f3a62d8e31918e67
+22204	24270	6590080200000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc_ex.xcl	e72747297318f89c
+23121	25201	6590080200000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c_ex.xcl	f0aee45d15f38c26
+24291	26458	6590080220000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi_ex.xcl	acb8428da057cf04
+26475	28097	6590080240000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart.xcl	8054b956485bf7e4
+27276	29067	6590080240000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/fifo.xcl	2f027112e4618b29
+28114	30810	6590080260000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim.xcl	cb9f17bc8630e577
+29083	31779	6590080270000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim_ex.xcl	f44797eedd0c1256
+30832	32774	6590080280000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/sx1276-Fsk.xcl	cd2780962ba49e51
+31798	33424	6590080290000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/led.xcl	90f0213700d1265b
+33451	36933	6590080320000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/radio.xcl	a0313d354e8135b
+36950	39027	6590080340000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/sx1276-FskMisc.xcl	c52fdf0feb594bfe
+40347	41251	6590080372291764	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/adc.pbi	a8b0c894d82286ae
+39045	42165	6590080370000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/sx1276.xcl	f2b32a8c333b0d1a
+41258	42827	6590080384420851	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/dma.pbi	28adafcebb147e09
+42185	43209	6590080391058172	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/gpio.pbi	2e5ccdd3adf4ee2c
+1583	2361	6594223034580329	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/spi.pbi	5cfb284b7d0463f7
+42832	45252	6590080400000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/sx1276-LoRa.xcl	adfa5542f390c14e
+5	811	6594361668283803	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+46123	47248	6590080429415833	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_hal_msp.pbi	21ea9de09542ca4a
+47254	48341	6590080441366468	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/lcd.pbi	e4cfc7054fd7aef0
+47839	49019	6590080446416703	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/CMSIS/system_stm32f0xx.pbi	37ec0e040d640ab3
+48347	49671	6590080452952982	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal.pbi	d0f7dac98d87fde0
+49024	50521	6590080460581147	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash.pbi	2346a6d53a8f4
+49676	51106	6590080467329478	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr_ex.pbi	4d82268b73e6373b
+50528	51851	6590080473655876	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc.pbi	564bb3bad262e5e8
+51112	52534	6590080481361574	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc_ex.pbi	23a6946cc087c852
+52540	54026	6590080495865295	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash_ex.pbi	ee2cb938a6a96f5
+53276	54690	6590080502631439	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_dma.pbi	f65bb5a54eb130d8
+54033	55196	6590080508705728	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_exti.pbi	ee11407cd503c7fd
+54695	55774	6590080513733865	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c_ex.pbi	a68f1b8708973543
+55202	57259	6590080521419875	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c.pbi	1fe1981d96d31cd9
+55780	58122	6590080537568716	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_gpio.pbi	caf3369d5337e587
+58717	60311	6590080557631370	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc.pbi	e632e8f6bc43a8d4
+5	491	6594248612228505	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/sx1276-Fsk.pbi	ea0dad587f824c5d
+2026	2686	6594223038486148	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart.pbi	766c6923e3e71216
+61007	62344	6590080581776542	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_spi.pbi	3a5a18f7ddc4e3bd
+63491	65072	6590080606961850	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/radio.pbi	c0c2e3d7c7a626c6
+64387	65637	6590080612702950	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim.pbi	c12c84428e67c110
+65078	66177	6590080618352936	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_tim_ex.pbi	d0c3a33416d5820
+65643	66900	6590080625400818	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_uart_ex.pbi	faa56bf53ecee65c
+66184	67739	6590080631658373	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/fifo.pbi	3e8b55fb1d9025d4
+4	545	6594239590264817	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/sx1276-Hal.pbi	98b183a0c5ae856e
+67744	68905	6590080645588394	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/sx1276-FskMisc.pbi	62a60ae63b745bb5
+3433	4237	6594223052244191	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/sx1276-LoRa.pbi	8aa6323849aa51b5
+68910	70165	6590080659098946	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part2.pbi	283304a31b97c64f
+551	1306	6594239597928463	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part5.pbi	225f23ba26053517
+70179	71645	6590080675305738	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part3.pbi	7e8879aac41d11b1
+1848	5427	6594362006528752	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+485	1025	6594361964194988	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+73423	75206	6590080707407685	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/radio/sx1276-LoRaMisc.pbi	c22730edbe84fd34
+817	1614	6594361675838202	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+496	1205	6594248619317004	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part6.pbi	11571c5b50837934
+1041	1836	6594361972298446	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+5	509	6594362125953337	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.pbi	4f9511f1269184d7
+514	1200	6594362132868205	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1211	2294	6594362143810146	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2308	6143	6594362180784382	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	610	6594362297648993	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.pbi	4f9511f1269184d7
+616	1246	6594362304009659	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1258	1993	6594362311477250	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2005	5840	6594362348452030	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	519	6594362409766320	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.pbi	4f9511f1269184d7
+525	1140	6594362415994916	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1153	2013	6594362424719741	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2026	5723	6594362459034109	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	637	6594362523761779	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.pbi	4f9511f1269184d7
+642	1300	6594362530390144	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1312	2274	6594362540122465	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2285	6153	6594362577638514	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	631	6594362640276087	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.pbi	4f9511f1269184d7
+636	1285	6594362646825373	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1297	2230	6594362656278422	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+5	734	6594362753966210	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.pbi	4f9511f1269184d7
+739	1399	6594362760633888	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1414	2393	6594362770580256	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2409	7280	6594362815425686	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+7	708	6594362995589550	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+713	1459	6594363003106191	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1473	2549	6594363014010308	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2566	6116	6594363047987232	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	587	6594363110208040	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+593	1441	6594363118748599	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1457	2359	6594363127942017	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2370	6399	6594363167087247	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	570	6594363229159667	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+576	1441	6594363237889989	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1456	2306	6594363246538286	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2317	5801	6594363280190279	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	480	6594363564763703	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+485	1092	6594363570882992	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1104	1954	6594363579503403	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+1965	6729	6594363625796692	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	585	6594363687739225	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+590	1305	6594363694949000	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1318	2532	6594363707213428	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2548	7735	6594363756131137	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+6	501	6594363819345243	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+508	1129	6594363825629979	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1141	1967	6594363833997234	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+1978	5939	6594363872344114	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	529	6594364546845219	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+536	1180	6594364553351639	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1196	2022	6594364561770918	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2035	6284	6594364602566130	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	504	6594364772492069	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+509	1094	6594364778412469	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1107	1887	6594364786351526	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+1899	5616	6594364822369939	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	768	6594365644250683	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/stm32f0xx_it.pbi	4f9511f1269184d7
+400	1140	6594365647885934	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+774	1613	6594365654703954	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+1146	1983	6594365656483066	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1621	2275	6594365661333330	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+2288	3187	6594365670452265	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+3200	7008	6594365707273857	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	450	6594365768518399	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/usart.pbi	9448db85ea747465
+457	1073	6594365774758806	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part1.pbi	d5506ce72e5d16ab
+1086	1822	6594365782245932	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+1833	5675	6594365819528369	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	892	6594366777775759	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+898	1849	6594366787345452	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1860	2847	6594366797332055	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2858	7395	6594366840957106	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	884	6594366906528615	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+891	1627	6594366913968508	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1638	2562	6594366923317329	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2574	6276	6594366959151734	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	737	6594367023099667	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+742	1415	6594367029903853	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1430	2261	6594367038364048	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2272	6436	6594367078663908	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	804	6594367142188182	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+810	1487	6594367149034479	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1498	2328	6594367157448224	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2339	6131	6594367194054545	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+6	849	6594367258050310	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+855	1542	6594367265001231	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1558	2354	6594367273124440	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2365	6053	6594367307835186	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	876	6594367374169935	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+881	1560	6594367381020149	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1573	2393	6594367389349495	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2408	6249	6594367426410370	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	790	6594367491318706	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+795	1394	6594367497381161	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1406	2225	6594367505688078	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2238	6137	6594367542149077	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+10	878	6594367608309077	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+884	1551	6594367615056111	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1561	2424	6594367623779683	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2439	6129	6594367659427525	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+7	853	6594367724974613	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+858	1492	6594367731369059	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1505	2347	6594367739911828	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2364	6430	6594367778962563	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	908	6594367845047253	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+915	1491	6594367850885314	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1506	2350	6594367859474459	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2361	6256	6594367894329075	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	797	6594367961172898	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+804	1447	6594367967701004	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1457	2285	6594367976073414	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2297	6121	6594368012856632	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+6	769	6594368077696667	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+775	1527	6594368085223085	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1541	2373	6594368093738204	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2386	6367	6594368132409804	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+7	914	6594368197449766	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+921	1584	6594368204169481	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1596	2554	6594368213879862	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2567	6529	6594368251933342	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+6	761	6594368316067762	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+766	1762	6594368326099611	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1777	2608	6594368334565947	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2622	6390	6594368369936519	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	897	6594368492739522	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+903	1478	6594368498556153	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1492	2362	6594368507390838	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2375	5839	6594368540697413	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+20	1042	6594368609153885	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+1048	1951	6594368618210882	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1967	3134	6594368630075348	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+3145	8701	6594368683173803	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+12	603	6594371989501340	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/led.pbi	6caf2657ab5ba792
+607	1398	6594371997473257	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part5.pbi	225f23ba26053517
+1409	2265	6594372006121186	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2281	6105	6594372043207074	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	478	6594372104504150	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/led.pbi	6caf2657ab5ba792
+483	1136	6594372111104449	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part5.pbi	225f23ba26053517
+1151	1988	6594372119624176	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+1999	5846	6594372156946571	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	612	6594372220469932	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/led.pbi	6caf2657ab5ba792
+617	1269	6594372227067771	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part5.pbi	225f23ba26053517
+1281	2460	6594372238911597	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2475	6475	6594372277422089	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+4	840	6594373269993476	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+847	1431	6594373275941369	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1445	2183	6594373283459182	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+2194	6371	6594373322072137	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+6	820	6594373825112422	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+827	2133	6594373835906172	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+2206	3755	6594373854442119	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+3778	8434	6594373899625316	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+6	432	6644585817011031	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/platform/led.pbi	6caf2657ab5ba792
+437	1349	6644585826237711	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part5.pbi	225f23ba26053517
+1360	1914	6644585831862307	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+1925	4515	6644585856557537	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+5	712	6644585968951078	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+719	1186	6644585973638389	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1199	1727	6644585979106638	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+1738	4171	6644586002238236	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2
+144	674	6644586062137861	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/Application/User/Core/main.pbi	f750da88e0ee6d67
+679	1059	6644586066051922	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn_part0.pbi	b04f78670c6d39eb
+1074	1566	6644586071051593	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbd	184e713c229145dc
+1579	4142	6644586092776742	F:/嵌入式+物联网/18 - LoRa开发与应用/D5 - LoRa串口透传开发/LoRa 串口透传开发/EWARM/Slave/BrowseInfo/learn.pbw	4b8a8ff5799731e2

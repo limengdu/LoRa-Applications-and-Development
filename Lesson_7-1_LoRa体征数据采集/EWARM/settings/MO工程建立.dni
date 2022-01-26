@@ -1,0 +1,55 @@
+[StLinkDriver]
+stlinkserialNo=24330487
+stlinkfoundProbes=
+CStepIntDis=_ 0
+LeaveTargetRunning=_ 0
+stlinkResetStyle=0
+stlinkResetStrategy=1
+[DebugChecksum]
+Checksum=1408341550
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[CallStackStripe]
+ShowTiming=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Bp0=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src}.781.1" 0 0 1 "" 0 "" 0
+Bp1=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src\dataprocess.c}.423.3" 0 0 1 "" 0 "" 0
+Bp2=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src\dataprocess.c}.423.3" 0 0 1 "" 0 "" 0
+Bp3=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src\netprocess.c}.153.11" 0 0 1 "" 0 "" 0
+Bp4=_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src\netprocess.c}.150.9" 0 0 1 "" 0 "" 0
+Bp5=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\Sx1278\radio\sx1276.c}.62.5" 0 0 1 "" 0 "" 0
+Bp6=_ 1 "EMUL_CODE" "{$PROJ_DIR$\..\Sx1278\radio\sx1276.c}.98.9" 0 0 1 "" 0 "" 0
+Count=7
+[Aliases]
+A0=_ "D:\01创客学院\01课程设计\03LoRa开发与应用\Day04\02源码\LoRa人机界面\Src\main.c" ""
+A1=_ "D:\01创客学院\01课程设计\03LoRa开发与应用\Day06\05源码\LoRa透传系统开发\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal.c" ""
+A2=_ "D:\01创客学院\01课程设计\03LoRa开发与应用\Day06\05源码\LoRa透传系统开发\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c" ""
+A3=_ "D:\01创客学院\01课程设计\03LoRa开发与应用\Day06\05源码\LoRa透传系统开发\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_uart.c" ""
+Count=4
+SuppressDialog=1

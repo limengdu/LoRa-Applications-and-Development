@@ -1,0 +1,25 @@
+# ninja log v5
+3	282	6647201700000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/Sensor/mpu6050.xcl	14f9eb38349b8e7
+41	349	6647201700000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/Task/netprocess.xcl	2c978c7b8891b65d
+306	617	6647201700000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/Task/dataprocess.xcl	8a64744719f3d5f7
+368	684	6647201700000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/lcd.xcl	468f17a27605b79e
+641	946	6647201710000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/stm32f0xx_hal_msp.xcl	948305671c6b6a86
+702	1012	6647201710000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/stm32f0xx_it.xcl	840c1197abee5439
+971	1266	6647201710000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/main.xcl	f1c64713805a5f87
+1031	1331	6647201710000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/spi.xcl	b147147339bd54f1
+3	287	6647201870000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/rtc.xcl	c279c8d8359a7039
+42	348	6647201870000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/usart.xcl	32aeb392872a2113
+312	610	6647201870000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/CMSIS/system_stm32f0xx.xcl	ef1c6609a2ccd7a0
+367	673	6647201870000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Application/User/tim.xcl	abbd9de4391af4fc
+635	926	6647201880000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc.xcl	952b4f095b4f26f3
+691	1024	6647201880000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_adc_ex.xcl	8a93f57f1212a9dc
+952	1274	6647201880000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal.xcl	915728e83a403126
+1045	1337	6647201880000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_gpio.xcl	723db01d40df6351
+1298	1607	6647201880000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash_ex.xcl	b39b7b476ab288e
+1357	1690	6647201880000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c.xcl	a33a233538cbdce7
+1632	1996	6647201890000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_flash.xcl	30c38dd48127a79b
+1712	2071	6647201890000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_cortex.xcl	791203af5becdb96
+2023	2391	6647201890000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_dma.xcl	a194925565653889
+2092	2460	6647201890000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_rcc_ex.xcl	cbc5ef66e4c467b3
+2417	2716	6647201890000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_i2c_ex.xcl	4b040741c1186421
+2480	2784	6647201890000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/01LoRa体征数据采集/EWARM/Slave/BrowseInfo/Drivers/STM32F0xx_HAL_Driver/stm32f0xx_hal_pwr.xcl	9d974a4009a28971

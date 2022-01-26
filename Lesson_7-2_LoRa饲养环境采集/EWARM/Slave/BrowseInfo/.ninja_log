@@ -1,0 +1,11 @@
+# ninja log v5
+4	291	6647202340000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/02LoRa饲养环境采集/EWARM/Slave/BrowseInfo/Application/User/Sensor/dht11.xcl	58f4da098090e645
+42	357	6647202340000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/02LoRa饲养环境采集/EWARM/Slave/BrowseInfo/Application/User/Sensor/mpu6050.xcl	3e9df4cf984720c5
+316	610	6647202340000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/02LoRa饲养环境采集/EWARM/Slave/BrowseInfo/Application/User/Task/dataprocess.xcl	5d0ef09253f75da9
+376	689	6647202340000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/02LoRa饲养环境采集/EWARM/Slave/BrowseInfo/Application/User/dma.xcl	a97c9f855e1142e
+634	975	6647202340000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/02LoRa饲养环境采集/EWARM/Slave/BrowseInfo/Application/User/Task/netprocess.xcl	8609425adda7883
+709	1041	6647202340000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/02LoRa饲养环境采集/EWARM/Slave/BrowseInfo/Application/User/delay.xcl	993b590eeabda5a9
+1000	1365	6647202350000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/02LoRa饲养环境采集/EWARM/Slave/BrowseInfo/Application/User/Task/protocol.xcl	9d85ca393cd75492
+1059	1438	6647202350000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/02LoRa饲养环境采集/EWARM/Slave/BrowseInfo/Application/User/adc.xcl	b92c37d5b57a7b7b
+1389	1716	6647202350000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/02LoRa饲养环境采集/EWARM/Slave/BrowseInfo/Application/User/spi.xcl	66867bea67e5ac11
+1458	1788	6647202350000000	F:/嵌入式+物联网/18 - LoRa开发与应用/D7 - LoRa智慧牧场项目集成开发/02LoRa饲养环境采集/EWARM/Slave/BrowseInfo/Application/User/main.xcl	dbabe24990badfb7

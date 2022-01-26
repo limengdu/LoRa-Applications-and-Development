@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <StLinkDriver>
+        <stlinkserialNo>24330487</stlinkserialNo>
+        <stlinkfoundProbes></stlinkfoundProbes>
+        <CStepIntDis>_ 0</CStepIntDis>
+        <LeaveTargetRunning>_ 0</LeaveTargetRunning>
+        <stlinkResetStyle>0</stlinkResetStyle>
+        <stlinkResetStrategy>1</stlinkResetStrategy>
+    </StLinkDriver>
+    <DebugChecksum>
+        <Checksum>957749884</Checksum>
+    </DebugChecksum>
+    <Exceptions>
+        <StopOnUncaught>_ 0</StopOnUncaught>
+        <StopOnThrow>_ 0</StopOnThrow>
+    </Exceptions>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <Log_file>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </Log_file>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <CallStackLog>
+        <Enabled>0</Enabled>
+    </CallStackLog>
+    <CallStackStripe>
+        <ShowTiming>1</ShowTiming>
+    </CallStackStripe>
+    <Disassemble_mode>
+        <mode>0</mode>
+    </Disassemble_mode>
+    <Breakpoints2>
+        <Bp0>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src}.781.1" 0 0 1 "" 0 "" 0</Bp0>
+        <Bp1>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src\dataprocess.c}.515.1" 0 0 1 "" 0 "" 0</Bp1>
+        <Bp2>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src\dataprocess.c}.515.1" 0 0 1 "" 0 "" 0</Bp2>
+        <Bp3>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src\netprocess.c}.153.11" 0 0 1 "" 0 "" 0</Bp3>
+        <Bp4>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src\netprocess.c}.150.9" 0 0 1 "" 0 "" 0</Bp4>
+        <Bp5>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src\main.c}.192.3" 0 0 1 "" 0 "" 0</Bp5>
+        <Bp6>_ 0 "EMUL_CODE" "{$PROJ_DIR$\..\Src\dataprocess.c}.515.3" 0 0 1 "" 0 "" 0</Bp6>
+        <Count>7</Count>
+    </Breakpoints2>
+    <Aliases>
+        <A0>_ "D:\01创客学院\01课程设计\03LoRa开发与应用\Day04\02源码\LoRa人机界面\Src\main.c" ""</A0>
+        <A1>_ "D:\01创客学院\01课程设计\03LoRa开发与应用\Day06\05源码\LoRa透传系统开发\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal.c" ""</A1>
+        <A2>_ "D:\01创客学院\01课程设计\03LoRa开发与应用\Day06\05源码\LoRa透传系统开发\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c" ""</A2>
+        <A3>_ "D:\01创客学院\01课程设计\03LoRa开发与应用\Day06\05源码\LoRa透传系统开发\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_uart.c" ""</A3>
+        <A4>_ "D:\01创客学院\01课程设计\03LoRa开发与应用\Day07\04源码\LoRa饲养环境采集\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal.c" ""</A4>
+        <A5>_ "D:\01创客学院\01课程设计\03LoRa开发与应用\Day07\04源码\LoRa饲养环境采集\Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c" ""</A5>
+        <Count>6</Count>
+        <SuppressDialog>1</SuppressDialog>
+    </Aliases>
+</settings>
